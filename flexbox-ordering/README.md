@@ -11,3 +11,5 @@ This is great for responsive design, where you can reorder content for mobile or
 If you give a flex item an order that is a negative number, it will be moved to the start of the main axis.
 
 Don't reorder areas that people might try to copy text from because the content they select will still be in the order of the HTML. Instead, use it to reorder larger areas, such as "about", "contact", "product info".
+
+![Screenshot of flexbox ordering exercises](https://res.cloudinary.com/gerhynes/image/upload/q_auto/v1539893762/Screenshot_2018-10-18_Flexbox_Ordering_lolkou.png)

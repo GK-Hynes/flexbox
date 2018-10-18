@@ -2,6 +2,8 @@
 
 Flexbox is particularly useful for aligning and centering items.
 
+## Justify-content
+
 `justify-content` aligns items along the main axis.
 
 The default is `justify-content: flex-start`, which aligns the items to the start of the flex container.
@@ -17,3 +19,15 @@ The default is `justify-content: flex-start`, which aligns the items to the star
 To take advantage of `justify-content` when the flex direction is set to `column`, you nedd to give the flex container a height.
 
 Setting direction to `column` and `justify-content` to `center` is one effective way of vertically centering content.
+
+## Align-items
+
+`align-items` aligns items along the cross axis. By default, it is set to `align-items: stretch`, where items will stretch to fill the container.
+
+`align-items: flex-start` aligns items at the start of the cross axis.
+
+`align-items: flex-end` aligns items at the end of the cross axis.
+
+`align-items: center` will vertically centre them.
+
+`align-items: baseline` will align items along the baseline of their content.

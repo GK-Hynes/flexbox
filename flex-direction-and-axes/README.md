@@ -17,3 +17,5 @@ When set to `column`, the main axis is from top to bottom (which is why the cont
 `flex-direction:row-reverse;` sets the main axis from right to left.
 
 `flex-direction:column-reverse;` sets the main axis from bottom to top.
+
+![Screenshot of flex-direction exercises](https://res.cloudinary.com/gerhynes/image/upload/v1539893711/Screenshot_2018-10-18_Flex_Direction_and_Axes_akjfxt.png)

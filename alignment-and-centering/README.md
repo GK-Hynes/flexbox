@@ -28,6 +28,22 @@ Setting direction to `column` and `justify-content` to `center` is one effective
 
 `align-items: flex-end` aligns items at the end of the cross axis.
 
-`align-items: center` will vertically centre them.
+`align-items: center` will centre them on the cross axis.
 
 `align-items: baseline` will align items along the baseline of their content.
+
+## Align-content
+
+While `justify-content` works on the main axis, `align-content` works on the cross axis. It only works when you have multiple lines of content.
+
+The default is `align-content: stretch`, where lines stretch to take up the remaining space.
+
+`align-content: flex-start` packs the lines at the start of the cross axis.
+
+`align-content: flex-end` packs the lines at the end of the cross axis.
+
+`align-content: center` centres the lines on the cross axis.
+
+`align-content: space-between` puts the first line at the start of the axis, the last at the end, and evenly distributes the space between.
+
+`align-content: space-around` evenly distributes the space around each line.

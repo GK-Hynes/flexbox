@@ -13,3 +13,5 @@ Setting `flex-wrap` to `wrap-reverse` switches the cross axis to bottom to top. 
 If you set `width` to 33.333% the flex items will fill the horizontal space.
 
 Since `margin` is not part of the box model (unlike padding and border), if you give flex items `margin`, they will have gaps between them.
+
+![Screenshot of flexbox flex-wrap exercises](https://res.cloudinary.com/gerhynes/image/upload/q_auto/v1539893773/Screenshot_2018-10-18_Flex-wrap_gdysnt.png)

@@ -20,6 +20,8 @@ To take advantage of `justify-content` when the flex direction is set to `column
 
 Setting direction to `column` and `justify-content` to `center` is one effective way of vertically centering content.
 
+![Screenshot of justify-content example](https://res.cloudinary.com/gerhynes/image/upload/q_auto/v1539894957/Screenshot_2018-10-18_Flexbox_Alignment_and_Centering_2_qbbt1q.png)
+
 ## Align-items
 
 `align-items` aligns items along the cross axis. By default, it is set to `align-items: stretch`, where items will stretch to fill the container.
@@ -31,6 +33,8 @@ Setting direction to `column` and `justify-content` to `center` is one effective
 `align-items: center` will centre them on the cross axis.
 
 `align-items: baseline` will align items along the baseline of their content.
+
+![Screenshot of align-items example](https://res.cloudinary.com/gerhynes/image/upload/q_auto/v1539894946/Screenshot_2018-10-18_Flexbox_Alignment_and_Centering_1_q1mshd.png)
 
 ## Align-content
 

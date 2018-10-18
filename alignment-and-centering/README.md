@@ -47,3 +47,7 @@ The default is `align-content: stretch`, where lines stretch to take up the rema
 `align-content: space-between` puts the first line at the start of the axis, the last at the end, and evenly distributes the space between.
 
 `align-content: space-around` evenly distributes the space around each line.
+
+You can use `align-content` and `justify-content` together to centre straggling items.
+
+![Screenshot of align-content example](https://res.cloudinary.com/gerhynes/image/upload/q_auto/v1539893730/Screenshot_2018-10-18_Flexbox_Alignment_and_Centering_kc85pb.png)

@@ -201,3 +201,15 @@ input::-moz-focus-inner {
 .container {
   display: flex;
 }
+
+.box {
+  flex: 1;
+}
+
+.box2 {
+  flex: 2;
+}
+
+.box5 {
+  flex: 3;
+}

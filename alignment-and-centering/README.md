@@ -55,3 +55,9 @@ The default is `align-content: stretch`, where lines stretch to take up the rema
 You can use `align-content` and `justify-content` together to centre straggling items.
 
 ![Screenshot of align-content example](https://res.cloudinary.com/gerhynes/image/upload/q_auto/v1539893730/Screenshot_2018-10-18_Flexbox_Alignment_and_Centering_kc85pb.png)
+
+# Align-self
+
+`align-self` works exactly like `align-items` but you can apply it on a case by case basis to individual items. So, for example, you could have all items aligned to `flex-start` but one item aligned to `flex-end`.
+
+![Screenshot of align-self example](https://res.cloudinary.com/gerhynes/image/upload/q_auto/v1539977402/Screenshot_2018-10-19_Flexbox_Alignment_and_Centering_shk1jz.png)
